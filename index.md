@@ -30,6 +30,7 @@ Nyt on myös mahdollisuus käyttää Telegrammia. Telegram on yhdistetty IRC kes
 * IRC kanava [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)
 * Telegram ryhmä: [Liity](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA)
 * [Github](https://github.com/SeinajokiHacklab)
+
 ## Linkkejä perustamiseen liittyviin juttuihin
 * Google dokumentti: [Seinäjoki Hacklab - yhteisöllinen työpaja](http://goo.gl/kWFLWR)
 * [Hacklab forum postaus](https://discourse.hacklab.fi/t/hacklab-seinajoelle/440/3)
@@ -39,12 +40,8 @@ Nyt on myös mahdollisuus käyttää Telegrammia. Telegram on yhdistetty IRC kes
 * [Hacklab Tampere](http://tampere.hacklab.fi/)
 * [Hacklab Jyväskylä](http://jyvaskyla.hacklab.fi/)
 * [Hacklab Kuopio](http://kuopio.hacklab.fi/) ([facebook](https://www.facebook.com/pages/Hacklab-Kuopio/185497508302791))
-* [Hacklab Turku](http://hacklabturku.org/)
+* [Turku Hacklab](http://hacklabturku.org/)
 * [Helsinki Hacklab](http://helsinki.hacklab.fi/)
 * [Tarlab Oulu](http://tarlab.fi/)
 * [Vaasa Hacklab](http://vaasa.hacklab.fi/)
 * [Pori Hacklab](http://pori.hacklab.fi/)
-
-
-
-Terveisin jps & Thasan
