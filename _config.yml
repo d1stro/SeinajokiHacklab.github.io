@@ -24,9 +24,11 @@ url: "http://seinajoki.hacklab.fi" # the base hostname & protocol for your site
 twitter_username: SjkHacklab
 github_username:  SeinajokiHacklab
 
+paginate:     1
+
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 
 
 # Where things are
@@ -56,7 +58,7 @@ unpublished: false
 
 # Plugins
 whitelist: []
-gems:      []
+gems:      ["jekyll-paginate"]
 
 # Conversion
 markdown:    kramdown
