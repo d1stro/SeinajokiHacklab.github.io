@@ -1,0 +1,9 @@
+<ul class="social-links">
+{% for social in site.data.social %}
+  <li>
+    <a rel="nofollow" class="social-tooltip btn" title="{{ social.name }}" href="{{ social.url }}" target="{{ social.icon }}">
+      <i class="fa {{ social.icon }}"></i>
+    </a>
+  </li>
+{% endfor %}
+</ul>
