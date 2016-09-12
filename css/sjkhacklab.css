@@ -1,0 +1,23 @@
+section.page-header ul.social-links {
+}
+
+section.page-header ul.social-links {
+  min-width: 100px;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+section.page-header ul.social-links li {
+  display:inline-block;
+  min-width: 100px;
+}
+
+ul.social-links li a i{
+  min-width: 16px;
+}
+
+@media (max-width: 978px) {
+  section.page-header ul.social-links li {
+    min-width: 50px;
+  }
+}
