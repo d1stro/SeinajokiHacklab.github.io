@@ -6,9 +6,27 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Sep 2016 06:52:46 +0300</pubDate>
-    <lastBuildDate>Tue, 13 Sep 2016 06:52:46 +0300</lastBuildDate>
+    <pubDate>Wed, 14 Sep 2016 15:21:58 +0300</pubDate>
+    <lastBuildDate>Wed, 14 Sep 2016 15:21:58 +0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Ensimmäinen tapaaminen</title>
+        <description>&lt;p&gt;Ensimmäinen tapaaminen torstaina 22.9 klo 20:00 Cafe Mondeolla.&lt;br /&gt;
+Osoite: Herralankatu 29, 60320 Seinäjoki&lt;/p&gt;
+
+&lt;p&gt;Mikäli olet kiinnostunut yhdistyksen perustamisesta, niin tulethan mukaan&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Sep 2016 15:05:00 +0300</pubDate>
+        <link>/blog/2016-09-14/ensimmainen-tapaaminen/</link>
+        <guid isPermaLink="true">/blog/2016-09-14/ensimmainen-tapaaminen/</guid>
+        
+        <category>perustaminen</category>
+        
+        
+        <category>yhdistys</category>
+        
+      </item>
     
   </channel>
 </rss>
