@@ -13,6 +13,8 @@
       {% include page-footer.html %}
 
     </section>
-	{% include google-analytics.html %}
+    {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+    {% endif %}
   </body>
 </html>
