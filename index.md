@@ -2,7 +2,8 @@
 layout: default
 title:  "Seinäjoki Hacklab - yhteisöllinen paja"
 ---
-Ensimmäinen tapaaminen torstaina 22.9 klo 20:00
+[Ensimmäinen tapaaminen](/blog/2016-09-14/ensimmainen-tapaaminen/) torstaina 22.9 klo 20:00 Cafe Mondeolla.
+Osoite: <a href="https://www.google.fi/maps/place/Herralankatu+29,+60320+Sein%C3%A4joki">Herralankatu 29, 60320 Seinäjoki</a>
 
 # Seinäjoki Hacklab - yhteisöllinen paja
 Etsitkö rakentelutilaa projektillesi? Kiinnostaako elektroniikka, ohjelmointi ja hakkerointi? Tavoitteenamme on perustaa yhteisöllinen työpaja, jossa pystyy toteuttamaan erilaisia teknisiä projekteja yhdessä tai itse. Voit olla esimerkiksi taiteilija, suunnittelija, insinööri, muusikko tai aivan kuka tahansa joka haluaa käyttää teknologiaa jonkin vempaimen rakentamiseen. Toiminta on voittoa tavoittelematonta.
