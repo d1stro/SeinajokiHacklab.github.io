@@ -4,10 +4,10 @@
     <title>Seinäjoki Hacklab</title>
     <description>Yhteisöllinen paja
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Sep 2016 15:21:58 +0300</pubDate>
-    <lastBuildDate>Wed, 14 Sep 2016 15:21:58 +0300</lastBuildDate>
+    <link>http://seinajoki.hacklab.fi/</link>
+    <atom:link href="http://seinajoki.hacklab.fi/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 16 Sep 2016 14:51:09 +0300</pubDate>
+    <lastBuildDate>Fri, 16 Sep 2016 14:51:09 +0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -18,8 +18,8 @@ Osoite: Herralankatu 29, 60320 Seinäjoki&lt;/p&gt;
 &lt;p&gt;Mikäli olet kiinnostunut yhdistyksen perustamisesta, niin tulethan mukaan&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Sep 2016 15:05:00 +0300</pubDate>
-        <link>/blog/2016-09-14/ensimmainen-tapaaminen/</link>
-        <guid isPermaLink="true">/blog/2016-09-14/ensimmainen-tapaaminen/</guid>
+        <link>http://seinajoki.hacklab.fi/blog/2016-09-14/ensimmainen-tapaaminen/</link>
+        <guid isPermaLink="true">http://seinajoki.hacklab.fi/blog/2016-09-14/ensimmainen-tapaaminen/</guid>
         
         <category>perustaminen</category>
         
