@@ -29,7 +29,7 @@ Nyt on myös mahdollisuus käyttää Telegrammia. Telegram on yhdistetty IRC kes
 ## Tämän hetkinen tilanne
 
 * Perusteilla
-* 17 kiinnostunutta jäsentä
+* 25 kiinnostunutta jäsentä
 * IRC kanava [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)
 * [Telegram ryhmä](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA)
 * [Github](https://github.com/SeinajokiHacklab)
