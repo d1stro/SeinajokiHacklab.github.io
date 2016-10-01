@@ -74,7 +74,7 @@ show_dir_listing: false
 
 # Outputting
 permalink:     /blog/:year-:month-:day/:title/
-paginate_path: /page:num
+paginate_path: /blog/page:num
 timezone:      null
 
 quiet:    false
