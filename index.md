@@ -2,7 +2,7 @@
 layout: default
 title:  "Seinäjoki Hacklab - yhteisöllinen paja"
 ---
-[Ensimmäinen tapaaminen](/blog/2016-09-14/ensimmainen-tapaaminen/) torstaina 22.9 klo 20:00 Cafe Mondeolla.
+Toinen tapaaminen ja mahdollinen perustuskokous. Torstaina 6.10. kello 20:00 Cafe Mondeo.
 Osoite: <a href="https://www.google.fi/maps/place/Herralankatu+29,+60320+Sein%C3%A4joki">Herralankatu 29, 60320 Seinäjoki</a>
 
 # Seinäjoki Hacklab - yhteisöllinen paja
