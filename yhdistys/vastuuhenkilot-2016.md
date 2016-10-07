@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Yhdistyksen vastuuhenkilöt 2016-2017"
+title:  "Yhdistys"
 ---
 
 ### Hallituksen jäsenet

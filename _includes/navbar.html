@@ -1,0 +1,10 @@
+<div id="navi-bar">
+    <ul>
+        <li><a href="/"><b>Etusivu</b></a></li>
+{% for my_page in site.pages %}
+  {% if my_page.title %}{% unless my_page.show_in_nav == false %}
+        <li><a href="{{ my_page.url | prepend: full_base_url }}"><b></b>{{ my_page.title | escape }}</a></li>
+  {% endunless %}{% endif %}
+{% endfor %}
+    </ul>
+</div>
