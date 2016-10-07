@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title:  "Yhdistyksen vastuuhenkilöt 2016-2017
 ---
 
