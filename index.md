@@ -19,25 +19,23 @@ Asiasta kiinnostuneet ilmoittautukaa alla olevalla google docs lomakkeella. Sinu
 [Ilmoittautuminen](https://docs.google.com/forms/d/e/1FAIpQLScHWKbvaRXgwTYrev-Tg35KvWHQIYO6oBxGxBr-lFjAukmiWg/viewform)
 
 ## Yhteydenpito
-Yhteydenpidossa moni vastaava rakentelupaja käyttää yhteydenpitoon ja keskusteluun internetin IRC-pikaviestejä.
-Meillä on käytössä IRC ja Telegram. Ne ovat yhdistetty toisiinsa
-* #SjkHacklab @ freenode IRC network
-* [Liity IRC keskusteluun](http://goo.gl/DCt9ru) (helppo tapa)
+
+Meillä on käytössä pääasiallisena keskustelukanavana Telegram pikaviestin.
+Yhteydenpitoon ja keskusteluun moni vastaava rakentelupaja käyttää IRC-pikaviestejä, jonka käyttö on myös meillä mahdollista. IRC ja Telegram ovat yhdistetty toisiinsa, joka mahdollistaa sen että voit käyttää kumpaa tahansa.
+
+* Liity keskusteluun [Telegrammilla](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA) 
+* Liity keskusteluun IRCillä: [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)
 * [Mikä on IRC](http://goo.gl/7hGZg)
 
-Nyt on myös mahdollisuus käyttää Telegrammia. Telegram on yhdistetty IRC keskusteluun
-
-* [Liity telegram keskusteluun](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA)
-
 ## Tämän hetkinen tilanne
-
-* Perusteilla
-* 25 kiinnostunutta jäsentä
-* IRC kanava [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)
-* [Telegram ryhmä](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA)
-* [Github](https://github.com/SeinajokiHacklab)
-* [Facebook ryhmä](https://www.facebook.com/groups/186124325143579/)
-* [Twitter](https://twitter.com/SjkHacklab)
+* Perusteilla, perustuskokous pidetty
+* 28 kiinnostunutta jäsentä
+* Somessa:
+  * [Telegram ryhmä](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA)
+  * IRC kanava [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)
+  * [Github](https://github.com/SeinajokiHacklab)
+  * [Facebook ryhmä](https://www.facebook.com/groups/186124325143579/)
+  * [Twitter](https://twitter.com/SjkHacklab)
 
 # Hacklab/hackerspace tiloja muualla Suomessa
 * [http://hacklab.fi/](http://hacklab.fi/)

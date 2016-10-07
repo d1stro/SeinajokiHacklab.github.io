@@ -1,10 +1,10 @@
-- name: IRC
-  icon: fa-hashtag
-  url: http://goo.gl/DCt9ru
-
 - name: Telegram
   icon: fa-paper-plane
   url: https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA
+
+- name: IRC
+  icon: fa-hashtag
+  url: http://goo.gl/DCt9ru
 
 - name: Facebook
   icon: fa-facebook
