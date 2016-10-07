@@ -21,3 +21,37 @@ ul.social-links li a i{
     min-width: 50px;
   }
 }
+
+
+#navi-bar{
+    background-color: #fff;
+    font-size: 14px;
+    border-bottom: 1px solid #000;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+}
+#navi-bar ul {
+    list-style-type: none;
+    padding-left: 0;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 5px;
+    margin: 2px;
+}
+#navi-bar ul li {
+    display: inline;
+    margin-right: 30px;
+}
+#navi-bar ul li a {
+    text-decoration: none;
+    color: #000;
+    padding: 7px 10px;
+    border-radius: 3px;
+    transition: color 0.3s, background 0.4s;
+}
+#navi-bar ul li a:hover {
+    color: #000;
+    background-color: #F3F6FA;
+}
