@@ -23,7 +23,7 @@ twitter_username: SjkHacklab
 github_username:  SeinajokiHacklab
 google_analytics: UA-83971738-1
 
-paginate:     1
+paginate:     20
 
 # Build settings
 markdown: kramdown

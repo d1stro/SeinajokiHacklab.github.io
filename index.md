@@ -3,7 +3,7 @@ layout: default
 title:  "Seinäjoki Hacklab - yhteisöllinen paja"
 show_in_nav: false
 ---
-Tapaaminen. Maanantaina 24.10. kello 19:00 Cafe Mondeo.
+Tapaaminen. Maanantaina 24.10. kello 19:00, Cafe Mondeo
 Osoite: <a href="https://www.google.fi/maps/place/Herralankatu+29,+60320+Sein%C3%A4joki">Herralankatu 29, 60320 Seinäjoki</a>
 
 [Kalenteriin](/kalenteri/) tullaan merkitsemään tulevat tapahtumat.
