@@ -1,0 +1,23 @@
+- title: Etusivu
+  link: /
+
+- title: Blogi
+  link: /blog/
+
+- title: Kalenteri
+  link: /kalenteri/
+
+- title: Yhdistys
+  link: /yhdistys/
+  sub:
+
+  - title: Hallitus ja vastuuhenkilöt
+    link: /yhdistys/vastuuhenkilot-2016/
+
+  - title: Säännöt
+    link: /yhdistys/saannot/
+
+#  - title: Tilasäännöt
+#    link: /yhdistys/tilasaannot/
+
+    

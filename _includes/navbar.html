@@ -1,10 +1,15 @@
 <div id="navi-bar">
+<ul class="nav navbar-nav">
+  <!-- 1st level -->
+  {% for nav in site.data.mainmenu %}
+  <li><a href="{{ nav.link | prepend: full_base_url }}">{{ nav.title | escape }}</a>
+    {% if nav.sub != null %}<!-- 2nd level -->
     <ul>
-        <li><a href="/">Etusivu</a></li>
-{% for my_page in site.pages %}
-  {% if my_page.title %}{% unless my_page.show_in_nav == false %}
-        <li><a href="{{ my_page.url | prepend: full_base_url }}">{{ my_page.title | escape }}</a></li>
-  {% endunless %}{% endif %}
-{% endfor %}
+    {% for sub in nav.sub %}  <li><a href="{{ site.baseurl }}{{ sub.link }}">{{ sub.title | escape }}</a></li>
+    {% endfor %}
     </ul>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
 </div>
