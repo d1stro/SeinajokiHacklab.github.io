@@ -3,23 +3,23 @@ layout: default
 title:  "Seinäjoki Hacklab - yhteisöllinen paja"
 show_in_nav: false
 ---
-Tapaaminen. Maanantaina 24.10. kello 19:00, Cafe Mondeo
-Osoite: <a href="https://www.google.fi/maps/place/Herralankatu+29,+60320+Sein%C3%A4joki">Herralankatu 29, 60320 Seinäjoki</a>
-
-[Kalenteriin](/kalenteri/) tullaan merkitsemään tulevat tapahtumat.
+Tulevat tapahtumat on merkitty [kalenteriin](/kalenteri/)
 
 # Seinäjoki Hacklab - yhteisöllinen paja
-Etsitkö rakentelutilaa projektillesi? Kiinnostaako elektroniikka, ohjelmointi ja hakkerointi? Tavoitteenamme on perustaa yhteisöllinen työpaja, jossa pystyy toteuttamaan erilaisia teknisiä projekteja yhdessä tai itse. Voit olla esimerkiksi taiteilija, suunnittelija, insinööri, muusikko tai aivan kuka tahansa joka haluaa käyttää teknologiaa jonkin vempaimen rakentamiseen. Toiminta on voittoa tavoittelematonta.
+Olemme perustamassa Seinäjoelle yhteisöllistä työpajaa, jossa pystyy toteuttamaan erilaisia teknisiä projekteja yhdessä tai itse. Voit olla esimerkiksi taiteilija, suunnittelija, insinööri, muusikko tai aivan kuka tahansa joka haluaa käyttää teknologiaa jonkin vempaimen rakentamiseen. Toiminta on voittoa tavoittelematonta.
 
-Pitäisikö Seinäjoelle saada oma hacklab? Paikka jossa voisi toteuttaa omia pienimuotoisia rakenteluprojekteja samanhenkisten seurassa. Kokoamme sopivaa porukkaa ja tavoitteena on perustaa yhteinen rakentelutila Seinäjoelle.
+# Hacklab? Mikä ihmeen häkläp?
+<blockquote>
+Hacklab (tunnettu myös nimityksillä hackerspace, hackspace, häckläb ja makerspace) on fyysinen tila, jossa tieteestä, teknologiasta ja digitaalisesta taiteesta kiinnostuneet voivat tavata, viettää aikaa yhdessä ja tehdä yhteistyötä. Hakkerikommuuni voidaan nähdä avoimena yhteisöllisenä laboratoriona, konepajana, työpajana ja/tai studiona jossa kaikki iästä, syntyperästä ja varakkuudesta riippumatta voivat tavata sekä jakaa resursseja ja osaamista liittyen kaikenlaiseen rakenteluun tai valmistamiseen/korjaamiseen.
+<br/>Lähde: <a href="https://fi.wikipedia.org/wiki/Hacklab" target="_blank">Wikipedia</a>
+</blockquote>
 
-## Ilmoittautuminen
+# Ilmoittautuminen
 Asiasta kiinnostuneet ilmoittautukaa alla olevalla google docs lomakkeella. Sinun ei tarvitse olla minkään alan erikoisosaaja tullaksesi toimintaan mukaan, vaan tervetuloa kaikki tee-se-itse henkiset joukkoon.
 
 [Ilmoittautuminen](https://docs.google.com/forms/d/e/1FAIpQLScHWKbvaRXgwTYrev-Tg35KvWHQIYO6oBxGxBr-lFjAukmiWg/viewform)
 
-## Yhteydenpito
-
+# Yhteydenpito
 Meillä on käytössä pääasiallisena keskustelukanavana Telegram pikaviestin.
 Yhteydenpitoon ja keskusteluun moni vastaava rakentelupaja käyttää IRC-pikaviestejä, jonka käyttö on myös meillä mahdollista. IRC ja Telegram ovat yhdistetty toisiinsa, joka mahdollistaa sen että voit käyttää kumpaa tahansa.
 
@@ -27,9 +27,10 @@ Yhteydenpitoon ja keskusteluun moni vastaava rakentelupaja käyttää IRC-pikavi
 * Liity keskusteluun IRCillä: [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)
 * [Mikä on IRC](http://goo.gl/7hGZg)
 
-## Tämän hetkinen tilanne
+# Tämän hetkinen tilanne
 * Perusteilla, perustuskokous pidetty
-* 28 kiinnostunutta jäsentä
+* 31 kiinnostunutta
+* Muutama tilavaihtoehto käyty katsomassa
 * Somessa:
   * [Telegram ryhmä](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA)
   * IRC kanava [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)
