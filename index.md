@@ -2,8 +2,11 @@
 layout: default
 title:  "Seinäjoki Hacklab - yhteisöllinen paja"
 show_in_nav: false
+custom_js: format-google-calendar
 ---
 Tulevat tapahtumat on merkitty [kalenteriin](/kalenteri/)
+
+<ul id="events-upcoming"></ul>
 
 # Seinäjoki Hacklab - yhteisöllinen paja
 Olemme perustamassa Seinäjoelle yhteisöllistä työpajaa, jossa pystyy toteuttamaan erilaisia teknisiä projekteja yhdessä tai itse. Voit olla esimerkiksi taiteilija, suunnittelija, insinööri, muusikko tai aivan kuka tahansa joka haluaa käyttää teknologiaa jonkin vempaimen rakentamiseen. Toiminta on voittoa tavoittelematonta.
@@ -48,3 +51,19 @@ Yhteydenpitoon ja keskusteluun moni vastaava rakentelupaja käyttää IRC-pikavi
 * [Tarlab Oulu](http://tarlab.fi/)
 * [Vaasa Hacklab](http://vaasa.hacklab.fi/)
 * [Pori Hacklab](http://pori.hacklab.fi/)
+
+
+<script>
+formatGoogleCalendar.init({
+  calendarUrl: 'https://www.googleapis.com/calendar/v3/calendars/4jggjvbt7gbagnel8k7od6gus4@group.calendar.google.com/events?key=AIzaSyCIR8Q1LNrCL9Sq12SkFf064ZuVHJ0tTqA',
+  past: false,
+  upcoming: true,
+  pastTopN: -1,
+  upcomingTopN: 3,
+  itemsTagName: 'li',
+  upcomingSelector: '#events-upcoming',
+  pastSelector: '#events-past',
+  upcomingHeading: '<b>Seuraava tapahtuma</b>',
+  format: ['*date*', ': ', '*summary*', ' — ', '*description*', '<br>paikassa ', '*location*']
+});
+</script>
