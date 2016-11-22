@@ -6,8 +6,8 @@
 </description>
     <link>http://seinajoki.hacklab.fi/</link>
     <atom:link href="http://seinajoki.hacklab.fi/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Nov 2016 20:35:31 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Nov 2016 20:35:31 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Nov 2016 12:27:26 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Nov 2016 12:27:26 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -22,6 +22,21 @@ Sähköpostitse lähetetyt kuvat tullaan lisäämään em. sivulle muiden näht�
         <pubDate>Sat, 08 Oct 2016 23:30:00 +0000</pubDate>
         <link>http://seinajoki.hacklab.fi/blog/2016-10-08/logo/</link>
         <guid isPermaLink="true">http://seinajoki.hacklab.fi/blog/2016-10-08/logo/</guid>
+        
+        <category>perustaminen</category>
+        
+        
+        <category>yhdistys</category>
+        
+      </item>
+    
+      <item>
+        <title>Yhdistys on perustettu</title>
+        <description>&lt;p&gt;Noniin, tänään koitti se odotettu päivä kun PRH:lta tuli vastaus että yhdistys on perustettu.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 08 Oct 2016 13:40:00 +0000</pubDate>
+        <link>http://seinajoki.hacklab.fi/blog/2016-10-08/yhdistys-on-perustettu/</link>
+        <guid isPermaLink="true">http://seinajoki.hacklab.fi/blog/2016-10-08/yhdistys-on-perustettu/</guid>
         
         <category>perustaminen</category>
         
