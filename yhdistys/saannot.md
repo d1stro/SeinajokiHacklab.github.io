@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Yhdistyksen säännöt"
+custom_css: prewrap
 ---
 
 {% highlight text %}
