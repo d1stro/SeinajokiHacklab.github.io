@@ -18,9 +18,11 @@ Hacklab (tunnettu myös nimityksillä hackerspace, hackspace, häckläb ja maker
 </blockquote>
 
 # Ilmoittautuminen
-Asiasta kiinnostuneet ilmoittautukaa alla olevalla google docs lomakkeella. Sinun ei tarvitse olla minkään alan erikoisosaaja tullaksesi toimintaan mukaan, vaan tervetuloa kaikki tee-se-itse henkiset joukkoon.
+Jäsenhakemuslomake avataan kunhan saadaan pankkitili auki
 
-[Ilmoittautuminen](https://docs.google.com/forms/d/e/1FAIpQLScHWKbvaRXgwTYrev-Tg35KvWHQIYO6oBxGxBr-lFjAukmiWg/viewform)
+[Liity postituslistalle](https://docs.google.com/forms/d/e/1FAIpQLScHWKbvaRXgwTYrev-Tg35KvWHQIYO6oBxGxBr-lFjAukmiWg/viewform) saadaksesi heti tiedon kun saamme liittymislomakkeen auki.
+
+Sinun ei tarvitse olla minkään alan erikoisosaaja tullaksesi toimintaan mukaan, vaan tervetuloa kaikki tee-se-itse henkiset joukkoon.
 
 # Yhteydenpito
 Meillä on käytössä pääasiallisena keskustelukanavana Telegram pikaviestin.
@@ -28,11 +30,12 @@ Yhteydenpitoon ja keskusteluun moni vastaava rakentelupaja käyttää IRC-pikavi
 
 * Liity keskusteluun [Telegrammilla](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA) 
 * Liity keskusteluun IRCillä: [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)
-* [Mikä on IRC](http://goo.gl/7hGZg)
+
+[Mikä on IRC](http://goo.gl/7hGZg)
 
 # Tämän hetkinen tilanne
-* Perusteilla, perustuskokous pidetty
-* 31 kiinnostunutta
+* Yhdistys on perustettu
+* 33 kiinnostunutta
 * Muutama tilavaihtoehto käyty katsomassa
 * Somessa:
   * [Telegram ryhmä](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA)
