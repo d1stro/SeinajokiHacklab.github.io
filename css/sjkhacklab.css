@@ -25,12 +25,13 @@ ul.social-links li a i{
 
 
 #navi-bar {
+  border-bottom: 1px solid #eff0f1
 }
 #navi-bar {
   margin: 0px auto;
   margin: 0px;
   text-align: center;
-  height: 24px;
+  min-height: 24px;
 }
 
 #navi-bar ul ul {
