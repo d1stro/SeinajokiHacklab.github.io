@@ -1,15 +1,15 @@
-<div id="navi-bar">
-<ul class="nav navbar-nav">
+<nav id="navi-bar">
+<ul class="menu">
   <!-- 1st level -->
   {% for nav in site.data.mainmenu %}
-  <li><a href="{{ nav.link | prepend: full_base_url }}">{{ nav.title | escape }}</a>
+  <li class="menu-item"><a href="{{ nav.link | prepend: full_base_url }}">{{ nav.title | escape }}</a>
     {% if nav.sub != null %}<!-- 2nd level -->
-    <ul>
-    {% for sub in nav.sub %}  <li><a href="{{ site.baseurl }}{{ sub.link }}">{{ sub.title | escape }}</a></li>
+    <ul class="sub-menu">
+    {% for sub in nav.sub %}<li class="menu-item"><a href="{{ site.baseurl }}{{ sub.link }}">{{ sub.title | escape }}</a></li>
     {% endfor %}
     </ul>
     {% endif %}
   </li>
   {% endfor %}
 </ul>
-</div>
+</nav>
