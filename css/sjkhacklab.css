@@ -25,23 +25,22 @@ ul.social-links li a i{
 
 
 #navi-bar {
-  border-bottom: 1px solid #eff0f1
-}
-#navi-bar {
   margin: 0px auto;
-  margin: 0px;
   text-align: center;
   min-height: 24px;
+  border-bottom: 1px solid #eff0f1
 }
 
-#navi-bar ul ul {
+#navi-bar .menu >.menu-item {
+  padding: 5px 0px;
+}
+#navi-bar .sub-menu {
   display: none;
 }
 
-#navi-bar ul li:hover > ul {
+#navi-bar .menu-item:hover > .sub-menu {
   display: block;
 }
-
 
 #navi-bar ul {
   padding: 0 5px;
@@ -49,8 +48,10 @@ ul.social-links li a i{
   list-style: none;
   position: relative;
   display: inline-table;
+  vertical-align: middle;
   margin: 0px;
 }
+
 #navi-bar ul:after {
   content: "";
   clear: both;
