@@ -25,6 +25,31 @@ google_analytics: UA-83971738-1
 
 paginate:     20
 
+collections:
+  posts:
+    output:   true
+    permalink: /uutiset/:path/
+
+  post_press:
+    output: true
+    permalink: /uutiset/lehdisto/:path/
+
+  post_projects:
+    output: true
+    permalink: /projekti/:path/
+
+defaults:
+  - scope:
+      type: post_press
+    values:
+      layout: page
+
+  - scope:
+      type: post_projects
+    values:
+      layout: project
+
+
 # Build settings
 markdown: kramdown
 #theme: minima
@@ -37,14 +62,11 @@ plugins_dir:  _plugins
 layouts_dir:  _layouts
 data_dir:     _data
 includes_dir: _includes
-collections:
-  posts:
-    output:   true
 
 # Handling Reading
 safe:         false
 include:      [".htaccess", "CNAME"]
-exclude:      ["Gemfile", "Gemfile.lock", "script/", "vendor"]
+exclude:      ["Gemfile", "Gemfile.lock", "script/", "vendor/", "README.md"]
 keep_files:   [".git", ".svn"]
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -73,8 +95,8 @@ host:    127.0.0.1
 show_dir_listing: false
 
 # Outputting
-permalink:     /blog/:year-:month-:day/:title/
-paginate_path: /blog/page:num
+permalink:     /uutiset/:year-:month-:day/:title/
+paginate_path: /uutiset/page:num
 timezone:      null
 
 quiet:    false
