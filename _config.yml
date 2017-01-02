@@ -28,11 +28,11 @@ paginate:     20
 collections:
   posts:
     output:   true
-    permalink: /uutiset/:path/
+    permalink: /uutiset/:year-:month-:day/:title/
 
   post_press:
     output: true
-    permalink: /uutiset/lehdisto/:path/
+    permalink: /uutiset/lehdisto/:year-:month-:day/:title/
 
   post_projects:
     output: true
