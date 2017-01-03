@@ -268,7 +268,7 @@ var formatGoogleCalendar = (function() {
         dayNameEnd = getDayNameFormatted(dateEnd);
       }
         //month day-day, year
-        return dayNameStart + getMonthName(dateStart[1]) + ' ' + dateStart[0] + '-' + dayNameEnd + dateEnd[0] + ', ' + dateStart[2];
+        return dayNameStart + ' ' + dateStart[0] + '-' + dateEnd[0] + '.' + getMonthName(dateStart[1]) + '.' + dateStart[2];
     };
 
     var formatDateDifferentMonth = function(dateStart, dateEnd, dayNames) {
@@ -280,7 +280,7 @@ var formatGoogleCalendar = (function() {
         dayNameEnd = getDayNameFormatted(dateEnd);
       }
         //month day - month day, year
-        return dayNameStart + getMonthName(dateStart[1]) + ' ' + dateStart[0] + '-' + dayNameEnd + getMonthName(dateEnd[1]) + ' ' + dateEnd[0] + ', ' + dateStart[2];
+        return dayNameStart + ' ' + dateStart[0] + '.' + getMonthName(dateStart[1]) + '. - ' + dayNameEnd + + ' ' + dateEnd[0] + '.' + getMonthName(dateEnd[1]) + '.' + dateStart[2];
     };
 
     var formatDateDifferentYear = function(dateStart, dateEnd, dayNames) {
