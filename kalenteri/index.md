@@ -6,4 +6,7 @@ title: Kalenteri
 
 Androidin ja googlen kalenterin käyttäjänä voit napsauttaa kalenterin vasemmassa alakulmassa olevaa "+Google kalenteri" nappia lisätäksesi kalenterin omiin kalentereihisi.
 
+
 Muita sähköisiä kalentereita käyttävät voivat käyttää <a href="https://calendar.google.com/calendar/ical/4jggjvbt7gbagnel8k7od6gus4%40group.calendar.google.com/public/basic.ics"><img src="https://calendar.google.com/calendar/images/ical.gif">/ics</a> osoitetta kalenterin tilaukseen.
+
+<a href="/kalenteri/hallitus/" rel="nofollow">Hallituksen kalenteri</a>
