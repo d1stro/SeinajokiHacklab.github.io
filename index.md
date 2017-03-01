@@ -29,14 +29,15 @@ Meillä on käytössä pääasiallisena keskustelukanavana Telegram pikaviestin.
 Yhteydenpitoon ja keskusteluun moni vastaava rakentelupaja käyttää IRC-pikaviestejä, jonka käyttö on myös meillä mahdollista. IRC ja Telegram ovat yhdistetty toisiinsa, joka mahdollistaa sen että voit käyttää kumpaa tahansa.
 
 * Liity keskusteluun [Telegrammilla](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA) 
-* Liity keskusteluun IRCillä: [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)
+* Liity keskusteluun IRCillä: [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru) ([Mikä on IRC](http://goo.gl/7hGZg))
 
-[Mikä on IRC](http://goo.gl/7hGZg)
+Hacklab.fi discoursessa meillä on [oma kategoria](https://discourse.hacklab.fi/c/seinajoki) jonka kautta meidät myös saa kiinni.
+
 
 # Tämän hetkinen tilanne
 * Yhdistys on perustettu
-* 33 kiinnostunutta
-* Muutama tilavaihtoehto käyty katsomassa
+* 38 kiinnostunutta
+* Muutama tilavaihtoehto käyty katsomassa mutta jokaisessa varteenotettavassa paikassa on ollut "mutta" joka on sen käytön estänyt.
 * Somessa:
   * [Telegram ryhmä](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA)
   * IRC kanava [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)

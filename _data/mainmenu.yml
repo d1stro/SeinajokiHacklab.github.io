@@ -4,12 +4,12 @@
 - title: Uutiset
   link: /uutiset/
 
-- title: Kalenteri
-  link: /kalenteri/
-
 - title: Yhdistys
   link: /yhdistys/
   sub:
+
+  - title: Kalenteri
+    link: /kalenteri/
 
   - title: Hallitus ja vastuuhenkilöt
     link: /yhdistys/vastuuhenkilot-2016/
@@ -20,4 +20,5 @@
 #  - title: Tilasäännöt
 #    link: /yhdistys/tilasaannot/
 
-    
+- title: Wiki
+  link:  https://doc.seinajoki.hacklab.fi/w/
