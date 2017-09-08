@@ -9,7 +9,9 @@ Tulevat tapahtumat on merkitty [kalenteriin](/kalenteri/)
 <ul id="events-upcoming"></ul>
 
 # Seinäjoki Hacklab - yhteisöllinen paja
-Olemme perustamassa Seinäjoelle yhteisöllistä työpajaa, jossa pystyy toteuttamaan erilaisia teknisiä projekteja yhdessä tai itse. Voit olla esimerkiksi taiteilija, suunnittelija, insinööri, muusikko tai aivan kuka tahansa joka haluaa käyttää teknologiaa jonkin vempaimen rakentamiseen. Toiminta on voittoa tavoittelematonta.
+Olemme perustaneet Seinäjoelle yhteisöllisen työpajan, jossa pystyy toteuttamaan erilaisia teknisiä projekteja yhdessä tai yksin. Voit olla esimerkiksi taiteilija, suunnittelija, insinööri, muusikko tai aivan kuka tahansa joka haluaa käyttää teknologiaa jonkin vempaimen rakentamiseen. Toiminta on voittoa tavoittelematonta.
+
+Etsimme tällä hetkellä tiloja.
 
 # Hacklab? Mikä ihmeen häkläp?
 <blockquote>
@@ -17,10 +19,8 @@ Hacklab (tunnettu myös nimityksillä hackerspace, hackspace, häckläb ja maker
 <br/>Lähde: <a href="https://fi.wikipedia.org/wiki/Hacklab" target="_blank">Wikipedia</a>
 </blockquote>
 
-# Ilmoittautuminen
-Jäsenhakemuslomake avataan kunhan saadaan pankkitili auki
-
-[Liity postituslistalle](https://docs.google.com/forms/d/e/1FAIpQLScHWKbvaRXgwTYrev-Tg35KvWHQIYO6oBxGxBr-lFjAukmiWg/viewform) saadaksesi heti tiedon kun saamme liittymislomakkeen auki.
+# Jäseneksi
+Jäsenhakemuslomake löytyy osoitteesta https://goo.gl/forms/TVdWk6z5oCaEzAst1
 
 Sinun ei tarvitse olla minkään alan erikoisosaaja tullaksesi toimintaan mukaan, vaan tervetuloa kaikki tee-se-itse henkiset joukkoon.
 
@@ -35,7 +35,7 @@ Hacklab.fi discoursessa meillä on [oma kategoria](https://discourse.hacklab.fi/
 
 
 # Tämän hetkinen tilanne
-* Yhdistys on perustettu
+* Yhdistys on perustettu, etsimme tiloja
 * 38 kiinnostunutta
 * Muutama tilavaihtoehto käyty katsomassa mutta jokaisessa varteenotettavassa paikassa on ollut "mutta" joka on sen käytön estänyt.
 * Somessa:
