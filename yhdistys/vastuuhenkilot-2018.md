@@ -11,7 +11,7 @@ Seinäjoen Hacklab ry:n vuosikokouksessa 11.12.2017 valittiin seuraavat hallituk
 Puheenjohtaja        Jani Kauhanen
 Varapuheenjohtaja    Jan-Ilmari Oksaharju
 Rahastonhoitaja      Juuso Yli-Sorvari
-
+Hallituksen jäsen    Mikko Seppälä
 {% endhighlight %}
 
 ### Muut vastuutehtävät
