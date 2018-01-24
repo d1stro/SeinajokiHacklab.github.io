@@ -20,7 +20,7 @@ Hacklab (tunnettu myös nimityksillä hackerspace, hackspace, häckläb ja maker
 </blockquote>
 
 # Jäseneksi
-Jäsenhakemuslomake löytyy osoitteesta https://goo.gl/forms/TVdWk6z5oCaEzAst1
+Jäsenhakemuslomake löytyy osoitteesta https://goo.gl/6wX1i9
 
 Sinun ei tarvitse olla minkään alan erikoisosaaja tullaksesi toimintaan mukaan, vaan tervetuloa kaikki tee-se-itse henkiset joukkoon.
 
@@ -36,13 +36,14 @@ Hacklab.fi discoursessa meillä on [oma kategoria](https://discourse.hacklab.fi/
 
 # Tämän hetkinen tilanne
 * Yhdistys on perustettu, etsimme tiloja
-* 38 kiinnostunutta
+* +10 jäsentä
 * Muutama tilavaihtoehto käyty katsomassa mutta jokaisessa varteenotettavassa paikassa on ollut "mutta" joka on sen käytön estänyt.
 * Somessa:
   * [Telegram ryhmä](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA)
   * IRC kanava [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)
   * [Github](https://github.com/SeinajokiHacklab)
-  * [Facebook ryhmä](https://www.facebook.com/groups/186124325143579/)
+  * [Facebook -sivu](https://www.facebook.com/sjkhacklab/)
+  * [Facebook -ryhmä](https://www.facebook.com/groups/186124325143579/)
   * [Twitter](https://twitter.com/SjkHacklab)
 
 # Hacklab/hackerspace tiloja muualla Suomessa
