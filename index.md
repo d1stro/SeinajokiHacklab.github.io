@@ -20,7 +20,7 @@ Hacklab (tunnettu myös nimityksillä hackerspace, hackspace, häckläb ja maker
 </blockquote>
 
 # Jäseneksi
-Jäsenhakemuslomake löytyy osoitteesta https://goo.gl/6wX1i9
+Jäsenhakemuslomakkeen löydät [täältä](https://goo.gl/6wX1i9)
 
 Sinun ei tarvitse olla minkään alan erikoisosaaja tullaksesi toimintaan mukaan, vaan tervetuloa kaikki tee-se-itse henkiset joukkoon.
 
