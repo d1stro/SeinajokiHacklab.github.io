@@ -5,7 +5,7 @@ title:  "Yhdistys"
 
 ### Hallituksen jäsenet
 
-Seinäjoen Hacklab ry:n vuosikokouksessa 11.12.2017 valittiin seuraavat hallituksen jäsenet
+Hacklab Seinäjoki ry:n vuosikokouksessa 11.12.2017 valittiin seuraavat hallituksen jäsenet
 
 {% highlight text %}
 Puheenjohtaja                  Jani Kauhanen
