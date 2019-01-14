@@ -35,10 +35,14 @@ Hacklab.fi discoursessa meillä on [oma kategoria](https://discourse.hacklab.fi/
 
 
 # Tämän hetkinen tilanne
-* Yhdistys on perustettu, etsimme tiloja
-* +10 jäsentä
-* Muutama tilavaihtoehto käyty katsomassa mutta jokaisessa varteenotettavassa paikassa on ollut "mutta" joka on sen käytön estänyt.
-* Somessa:
+* Yhdistys on löytänyt tilat!
+  Osoitteemme on: 
+  Kauppakatu 25
+  60100 Seinäjoki
+
+* [Otamme vastaan työkaluja, elektroniikkaa ja tietokoneita Hacklabin käyttöön](https://www.tori.fi/etela-pohjanmaa/Otetaan_vastaan_tyokalut_elektroniikka_tietokoneet_53652708.htm)
+
+* Löydät meidät SoMessa:
   * [Telegram ryhmä](https://telegram.me/joinchat/DSw-DT9RZnH3KnICPxgDTA)
   * IRC kanava [#SjkHacklab @ Freenode](http://goo.gl/DCt9ru)
   * [Github](https://github.com/SeinajokiHacklab)
